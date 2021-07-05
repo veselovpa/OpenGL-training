@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "gl_base_sample_2020",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "gl_base_sample_2020::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gl_base_sample_2020-Debug-803ecd772aaeeb1d540b.json",
+					"name" : "gl_base_sample_2020",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/__repo/LABA3_ITOG/gl_base_sample_2020_VESELOV/out/build/x64-Debug",
+		"source" : "D:/__repo/LABA3_ITOG/gl_base_sample_2020_VESELOV"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

@@ -1,0 +1,3 @@
+D:/__repo/LABA3_ITOG/gl_base_sample_2020_VESELOV/out/build/x64-Debug/CMakeFiles/gl_base_sample_2020.dir
+D:/__repo/LABA3_ITOG/gl_base_sample_2020_VESELOV/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/__repo/LABA3_ITOG/gl_base_sample_2020_VESELOV/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

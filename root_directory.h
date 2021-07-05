@@ -1,0 +1,1 @@
+const char* logl_root = "D:/__repo/LABA3_ITOG/gl_base_sample_2020_VESELOV";
